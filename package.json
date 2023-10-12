@@ -1,0 +1,27 @@
+{
+  "name": "trello_discord_bot",
+  "version": "0.0.1",
+  "description": "A Discord bot linked to a Trello board.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyph1sh/trello_discord_bot.git"
+  },
+  "keywords": [
+    "trello",
+    "discord",
+    "bot"
+  ],
+  "author": "JellyPh1sh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellyph1sh/trello_discord_bot/issues"
+  },
+  "homepage": "https://github.com/jellyph1sh/trello_discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
